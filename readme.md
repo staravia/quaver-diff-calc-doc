@@ -6,7 +6,7 @@ This process outputs an overall difficulty value that is utilized for our rankin
 
 ## Complexity
 
-Another important detail is to keep the computation complexity as low as possible. It uses a O(n^3) algorithm, which is pretty bad for what its' doing. We hope to reduce the complexity down to O(n^2) or even O(n log n) if possible.
+Another important detail is to keep the computation complexity as low as possible. The current system uses a few O(n^3) algorithms, which is pretty bad for what its' doing. We hope to reduce the complexity down to O(n^2) or even O(n log n) if possible.
 
 # Challenges
 
