@@ -42,7 +42,7 @@ We use Nelder Mead algorithm for optimization. It's included in the Accord.Math 
 
 > Explain how this works
 
-### Benchmark Maps
+### Benchmarks
 
 We have a handful of benchmark maps selected.
 
