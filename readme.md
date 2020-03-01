@@ -28,7 +28,7 @@ Long notes are also pretty difficult to calculate. Short releases, Technical rel
 
 ## Stamina
 
-Stamina is pretty difficult to calculate.
+Stamina is pretty difficult to calculate. Just having stamina in the system will heavily change a map's rating. Not having it in will make short maps over-rated.
 
 > Explain our solution to this problem
 
